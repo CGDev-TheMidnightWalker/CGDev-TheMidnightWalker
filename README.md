@@ -11,7 +11,7 @@ I'm a Mexican Software Engineer with almost 8 years of experience in different I
 * 🖥️  See my portfolio at [my web](http://charliegomez.dev/)
 * ✉️  You can contact me at [ca.gomez1393@gmail.com](mailto:ca.gomez1393@gmail.com)
 * 🚀  I'm currently working on [Solera](http://www.solera.com/)
-* 🧠  I'm learning React and Angular
+* 🧠  I'm learning to use Github, React, Angular and improving my Algo skills
 * 🤝  I'm open to collaborating on Backend, Gaming, AI or Open Sourcing projects
 * ⚡  If you like camping, trekking, photography or if you feel like chatting about movies, philosophy or technology, let's get in touch!
 
